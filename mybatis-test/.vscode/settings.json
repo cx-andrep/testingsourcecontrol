@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\joaoc\\Downloads\\mybatis-3.5.3\\mybatis-3.5.3.jar",
-        "c:\\Users\\joaoc\\Downloads\\javax.jar\\javax.jar",
-        "c:\\Users\\joaoc\\Downloads\\log4j-1.2.17.jar\\log4j-1.2.17.jar"
-    ]
-}
